@@ -77,10 +77,12 @@ body {
     display: flex;
     align-items: center;
     padding-top: 3rem;
+    padding-left: 2rem;
 }
 
 .contact-info ul {
     padding-top: 1.5rem;
+    padding-left: 1rem;
 }
 
 .contact-info ul li,
@@ -88,7 +90,7 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    color: #d6dbdfaf;
+    color: #fffbfb;
     letter-spacing: 1px;
     font-size: 18px;
 }
@@ -101,15 +103,16 @@ body {
 }
 
 .skills ul {
-    padding-top: 1.5rem;
+    padding-top: 2rem;
+    padding-left: 1rem;
 }
 .skills ul li p {
-    padding: .4rem 0;
+    padding: .3rem 0;
     color: #d6dbdfaf;
     font-size: 18px;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     display: flex;
-    align-items: center;
+    align-items:center;
     text-transform: uppercase;
 }
 
